@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_pacman_game/views/home_page.dart';
 
 void main() {
-  runApp(DevicePreview(builder: ((context) => MyApp())));
+  runApp( MyApp());
 }
 
 class MyApp extends StatelessWidget {
